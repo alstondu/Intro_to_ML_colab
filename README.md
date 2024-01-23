@@ -1,6 +1,25 @@
-# Lab exercises
+# Introduction_to_Machine_Learning
+This repo contains Jupyter notebooks for UCL COMP0088's weekly lab sessions.
 
-This repo contains Jupyter notebooks for COMP0088's weekly lab sessions. The notebooks are intended to be run using Google's [Colaboratory](https://colab.research.google.com) service. Click on the **Open In Colab** badge for a notebook to run it. You will be warned that the notebook was not authored by Google — it wasn't, you'll just have to trust us. You should save a copy of the notebook in your own Google account so that you can save your changes.
+------
+## Topics Covered
+| Week | Title                                     | Outline of topics covered                         |
+|------|-------------------------------------------|---------------------------------------------------|
+| 1    | Introduction                              | What is Machine Learning?<br>Models & Fitting<br>Types of Learning<br>Pitfalls & Practicalities |
+| 2    | Linear Models                             | Ordinary Least Squares<br>Basis Expansion<br>Regularisation<br>Logistic Regression<br>Gradient Descent<br>Multiclass Problems |
+| 3    | Non-Parametric Models                     | k-Nearest Neighbours<br>Decision Trees<br>Ensembles<br>Adaboost<br>Random Forests |
+| 4    | Linear Models Revisited                   | Support Vector Machines<br>Kernels<br>Perceptrons |
+| 5    | Neural Networks                           | Multi-Layer Perceptrons<br>Backpropagation<br>Activation Functions & Initialisation |
+| 6    | More Neural Networks                      | Convolutional Neural Networks<br>Recurrent Neural Networks<br>Deep Learning Frameworks |
+| 7    | Clustering & Dimensionality Reduction     | k-Means Clustering<br>Principal Components Analysis<br>Embeddings & Representation Learning |
+| 8    | Mixture Models & Expectation Maximisation | Gaussian Mixture Models<br>Hidden Markov Models |
+| 9    | Deep Learning Applications                | Autoencoders<br>Generative Adversarial Networks<br>Large Language Models |
+| 10   | Fun & Games                               | Deepfakes<br>Reinforcement Learning<br>Ethics & Fairness |
+
+
+## Lab exercises
+
+The notebooks are intended to be run using Google's [Colaboratory](https://colab.research.google.com) service. Click on the **Open In Colab** badge for a notebook to run it. You will be warned that the notebook was not authored by Google — it wasn't, you'll just have to trust us. You should save a copy of the notebook in your own Google account so that you can save your changes.
 
 Notebooks can *probably* also be run locally, but you will need to set up an appropriate Python environment, which can be quite fiddly. You are welcome to try this if it's something you are comfortable with, but we cannot provide any technical support for doing so.
 
